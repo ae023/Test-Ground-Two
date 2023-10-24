@@ -1,0 +1,140 @@
+body{
+    background-color:black;
+    font-size:small;
+    font-family:'Courier New', Courier, monospace;
+    color:white;
+    /* font-size:0.5em; */
+    /* overflow: hidden; */
+    
+
+}
+
+h1{
+    color:white;
+    font-family:'Courier New', Courier, monospace;
+    text-align: right;
+    padding:10%;
+}
+
+.P1{
+    font-weight:500;
+}
+
+.P2{
+    font-weight:900;
+}
+
+.P3{
+    /* background-color:rgba(0, 0, 0, 0.1); */
+    padding:5%;
+    font-size: smaller;
+
+}
+
+.P4{
+    /* background-color:rgba(0, 0, 0, 0.1); */
+    text-align:justify;
+    font-size:xx-small;
+    line-height:70%;
+    letter-spacing:10px;
+    padding:1%;
+}
+
+.P5{
+    text-align:justify;
+    font-size:xx-small;
+    line-height:50%;
+    letter-spacing:10px;
+    padding:10%;
+}
+
+.P6{
+    text-align:justify;
+    color: white;
+    font-size:small;
+    line-height:30%;
+    letter-spacing:10px;
+    padding:5%;
+}
+
+.P7{
+    /* text-align:justify; */
+    color: white;
+    font-size:xx-small;
+    font-weight:bold;
+    /* padding:1%; */
+}
+
+.draggable{
+    color: white;
+    font-size:medium;
+    font-weight:100;
+    cursor:help
+}
+
+#stars{
+    font-size:xx-large;
+}
+
+.binary{
+    text-align:center;
+    font-weight:lighter;
+}
+
+.container {
+    text-align: center;
+}
+
+.interactive-paragraph {
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.interactive-word {
+    display: inline-block;
+    transition: transform 0.2s ease-in-out;
+}
+
+.ASCII{
+    /* font-size:xx-small; */
+    color:white;
+}
+
+.binarytest{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: lighter;
+    /* text-align: justify; */
+    font-size:xx-large;
+    line-height:39%;
+    letter-spacing:-6px;
+    text-decoration-style: none;
+    text-decoration: none;
+    
+}
+
+.blocks{
+    font-size:xx-small;
+    line-height:50%;
+    letter-spacing:1px;
+}
+
+abbr {
+    border-bottom: none !important;
+    cursor: inherit !important;
+    text-decoration: none !important;
+  }
+
+  .binarySentance{
+    line-height:10px;
+    letter-spacing:normal;
+    font-size:small;
+  }
+
+  .binarySentance2{
+    line-height:6px;
+    letter-spacing:normal;
+    font-size:small;
+    cursor:help
+  }
